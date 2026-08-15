@@ -1,5 +1,4 @@
 # SitiosTuristicosEcuador
-<img width="227" height="462" alt="image" src="https://github.com/user-attachments/assets/4502fd4b-54de-4e70-adf7-9801cc70087f" />
 
 
 DESCRIPCIÓN
