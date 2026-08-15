@@ -1,4 +1,6 @@
 # SitiosTuristicosEcuador
+<img width="227" height="462" alt="image" src="https://github.com/user-attachments/assets/4502fd4b-54de-4e70-adf7-9801cc70087f" />
+
 
 DESCRIPCIÓN
 Sititos Turisticos del Ecuador es una aplicación móvil Android desarrollada con Kotklin y JetPack Compose. Su objetivo es permitir a los usuarios explorar diferentes destinos turisticos del Ecuador, consultar información de cada lugar, visualizar su ubicación mediaante GPS y personalizar la apariencia de la aplicación mediante el modo oscuro.
