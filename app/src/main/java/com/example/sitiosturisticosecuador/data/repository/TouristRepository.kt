@@ -28,6 +28,15 @@ class TouristRepository(private val dao: TouristPlaceDao) {
                 imageUrl = "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/20/e7/0b/quilatoa-and-wild-flowers.jpg?w=1200&h=-1&s=1",
                 latitude = -0.8584,
                 longitude = -78.9038
+            ),
+            TouristPlace(
+                id = "3",
+                name = "Volcán Quilotoa",
+                province = "Cotopaxi",
+                description = "Impresionante caldera volcánica con una laguna esmeralda.",
+                imageUrl = "https://media.elcomercio.com/wp-content/uploads/2022/11/panecillo-ec-700x391.jpg",
+                latitude = -0.8584,
+                longitude = -78.9038
             )
         )
     }
