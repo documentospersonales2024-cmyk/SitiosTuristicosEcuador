@@ -31,12 +31,21 @@ class TouristRepository(private val dao: TouristPlaceDao) {
             ),
             TouristPlace(
                 id = "3",
-                name = "Volcán Quilotoa",
-                province = "Cotopaxi",
-                description = "Impresionante caldera volcánica con una laguna esmeralda.",
-                imageUrl = "https://media.elcomercio.com/wp-content/uploads/2022/11/panecillo-ec-700x391.jpg",
-                latitude = -0.8584,
-                longitude = -78.9038
+                name = "Mirador de la Virgen del Panecillo",
+                province = "Pichincha",
+                description = "Los visitantes pueden disfrutar de una vista panorámica espectacular de la ciudad de Quito y sus alrededores.",
+                imageUrl = "https://ec.viajandox.com/uploads/Virgen%20de%20El%20Panecillo_1.jpg",
+                latitude = -0.227982,
+                longitude = -78.519040
+            ),
+            TouristPlace(
+                id = "4",
+                name = "Pailón del Diablo",
+                province = "Tungurahua",
+                description = "Encontramos diversos paisajes y el reencuentro con la naturaleza.",
+                imageUrl = "https://cdn.getyourguide.com/image/format=auto%2Cfit=crop%2Cgravity=auto%2Cquality=60%2Cheight=440%2Cdpr=1/tour_img/cb52fec84cd311e9ea82ab4449339c6e9b0b1c512088c5078a4dd4c0ce8e5d39.jpg",
+                latitude = -1.395641,
+                longitude = -78.286858
             )
         )
     }
